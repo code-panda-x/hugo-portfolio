@@ -14,7 +14,7 @@ organizations:
   url: https://www.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -63,4 +63,4 @@ highlight_name: true
 
 Hello! My name is Kehan Meng, I am currently a graduate student studying computer science at Texas A&M University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/KehanMeng_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
