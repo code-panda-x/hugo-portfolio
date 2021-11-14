@@ -43,7 +43,7 @@ experience:
     location: South Dakota
     date_start: '2018-09-01'
     date_end: '2018-12-31'
-    description: 
+    description: |2-
     * Created Python scripts to manage metadata from raw DNA, RNA segments
     * Analyzed computational bioinformatics data utilizing HPC in Linux environment
     * Performed gene expressions and extracted useful information for bioresearch
