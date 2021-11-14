@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: Bioinformatics and Mathematical Biosciences Lab
     company_url: 'https://u.osu.edu/bmbl/lab-members/current-people/bmbl-2018-winter-1kqw4bx/#main'
-    company_logo: bmbl
+    company_logo: org-gc
     location: South Dakota
     date_start: '2018-09-01'
     date_end: '2018-12-31'
