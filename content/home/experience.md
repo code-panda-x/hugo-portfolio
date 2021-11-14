@@ -36,14 +36,17 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Bioinformatics and Mathematical Biosciences Lab
+    company_url: 'https://u.osu.edu/bmbl/lab-members/current-people/bmbl-2018-winter-1kqw4bx/#main'
+    company_logo: bmbl
+    location: South Dakota
+    date_start: '2018-09-01'
+    date_end: '2018-12-31'
+    description: 
+    * Created Python scripts to manage metadata from raw DNA, RNA segments
+    * Analyzed computational bioinformatics data utilizing HPC in Linux environment
+    * Performed gene expressions and extracted useful information for bioresearch
 
 design:
   columns: '2'

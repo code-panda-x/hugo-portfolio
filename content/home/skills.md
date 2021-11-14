@@ -20,7 +20,11 @@ feature:
   icon: java
   icon_pack: fab
   name: Java
-- description: 90%
+- description: 80%
+  icon: git
+  icon_pack: fab
+  name: Git
+- description: 80%
   icon: blog
   icon_pack: fas
   name: Blog
@@ -28,6 +32,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 80%
+  icon: react
+  icon_pack: fab
+  name: React
 - description: 50%
   icon: aws
   icon_pack: fab
