@@ -37,14 +37,19 @@ experience:
         * Conducted non-conformance DisplayPort testing with Linux Machines
         * Distributed teamwork on Azure DevOps and practiced Agile Methodology
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Bioinformatics and Mathematical Biosciences Lab
+    company_url: 'https://u.osu.edu/bmbl/lab-members/current-people/bmbl-2018-winter-1kqw4bx/#main'
+    company_logo: bmbl
+    location: Brookings, SD
+    date_start: '2018-08-31'
+    date_end: '2018-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Created Python scripts to manage metadata from raw DNA, RNA segments
+        * Analyzed computational bioinformatics data utilizing HPC in Linux environment
+        * Performed gene expressions and extracted useful information for bioresearch
 
 design:
   columns: '2'
