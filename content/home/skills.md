@@ -20,7 +20,7 @@ feature:
   icon: java
   icon_pack: fab
   name: Java
-- description: 80%
+- description: 90%
   icon: git
   icon_pack: fab
   name: Git
@@ -32,7 +32,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 80%
+- description: 70%
   icon: react
   icon_pack: fab
   name: React
