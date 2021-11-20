@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Web App
+      tag: Web App
+    - name: Python
+      tag: Python
     - name: Other
       tag: Demo
 

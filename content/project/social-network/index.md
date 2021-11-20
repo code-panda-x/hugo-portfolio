@@ -2,7 +2,8 @@
 title: Social Network App
 summary: A full-stack application that users can register, create profiles, and add posts
 tags:
-  - JavaScipt
+  - JavaSciprt
+  - Web App
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
