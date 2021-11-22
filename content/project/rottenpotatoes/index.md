@@ -4,6 +4,7 @@ summary: A web app that user can add/delete movies and filter movies by ranking
 tags:
   - Web App
   - Ruby
+  - Other
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

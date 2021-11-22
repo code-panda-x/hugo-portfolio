@@ -4,6 +4,7 @@ summary: A web scraper to extract elements on websites
 tags:
   - Python
   - Script
+  - Other
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

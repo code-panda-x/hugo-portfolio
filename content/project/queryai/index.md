@@ -5,6 +5,7 @@ summary: A mobile app that sells funnels
 tags:
   - Mobile
   - Flutter
+  - Other
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

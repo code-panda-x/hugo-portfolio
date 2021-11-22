@@ -29,14 +29,8 @@ content:
       tag: "*"
     - name: Main Projects
       tag: Main Projects
-    - name: Web App
-      tag: Web App
-    - name: Script
-      tag: Script
-    - name: Mobile
-      tag: Mobile
-    - name: Other
-      tag: Demo
+    - name: Others
+      tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

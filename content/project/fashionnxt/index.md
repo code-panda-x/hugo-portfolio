@@ -5,6 +5,7 @@ summary: A Web App to Match Complimentary Resources in Creative Industry
 tags:
   - Web App
   - Rails
+  - Other
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

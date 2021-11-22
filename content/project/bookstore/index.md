@@ -5,6 +5,7 @@ summary: A bookstore that provides links to download free e-books!
 tags:
   - Web App
   - ASP.NET
+  - Other
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -5,6 +5,7 @@ summary: A front-end web application that can add/delete reminders in React
 tags:
   - Web App
   - React
+  - Other
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
