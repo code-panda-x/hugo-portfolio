@@ -1,10 +1,9 @@
 ---
-title: Python Slack Bot
-summary: A Flask based REST backend web app to process Bot User requests
+title: Movie Viewer
+summary: A web app that user can add/delete movies and filter movies by ranking
 tags:
-  - Python
   - Web App
-  - Script
+  - Ruby
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Github
-    url: https://github.com/code-panda-x/python-slack-bot
+    url: https://github.com/code-panda-x/code-panda-x.github.io
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,6 +29,7 @@ url_video: ""
 # slides: example
 ---
 
-- Accomplished web app using Flask, ngrok and Slack API
-- Configured app with OAuth access token exercising slackclient and slackevents API
-- Designed backend logic to post specific bot responses corresponding to an event
+URL: http://intense-coast-74449.herokuapp.com/movies?ratings%5BG%5D=1&ratings%5BPG%5D=1&ratings%5BPG-13%5D=1&ratings%5BR%5D=1
+
+- Built by Ruby on Rails
+- Deployed on Heroku

@@ -1,10 +1,10 @@
 ---
-title: Python Slack Bot
-summary: A Flask based REST backend web app to process Bot User requests
+title: Event reminder
+summary: A front-end web application that can add/delete reminders in React
+
 tags:
-  - Python
   - Web App
-  - Script
+  - React
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Github
-    url: https://github.com/code-panda-x/python-slack-bot
+    url: https://github.com/code-panda-x/event-reminder
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,6 +30,6 @@ url_video: ""
 # slides: example
 ---
 
-- Accomplished web app using Flask, ngrok and Slack API
-- Configured app with OAuth access token exercising slackclient and slackevents API
-- Designed backend logic to post specific bot responses corresponding to an event
+- Completed a front-end web application that can add/delete reminders in React
+- Constructed an interactive UI using React Bootstrap, managed state with Redux
+- Handled browser cookies to prevent data loss when refreshing the browser

@@ -1,10 +1,10 @@
 ---
-title: Python Slack Bot
-summary: A Flask based REST backend web app to process Bot User requests
+title: Query.AI Mobile App
+summary: A mobile app that sells funnels
+
 tags:
-  - Python
-  - Web App
-  - Script
+  - Mobile
+  - Flutter
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,11 +13,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: github
-    icon_pack: fab
-    name: Github
-    url: https://github.com/code-panda-x/python-slack-bot
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,6 +25,9 @@ url_video: ""
 # slides: example
 ---
 
-- Accomplished web app using Flask, ngrok and Slack API
-- Configured app with OAuth access token exercising slackclient and slackevents API
-- Designed backend logic to post specific bot responses corresponding to an event
+URL: https://app.query.ai/
+
+- Completed a user-friendly mobile app as an extension to Query.AI in Flutter
+- Integrated REST APIs for user login authentication, secured by base64 encoding
+- Performed workflow filtering on Elasticsearch & Splunk platforms with interactive UI
+- Led a team of 4 and collaborated with other members on GitHub as version control

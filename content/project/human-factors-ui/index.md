@@ -1,10 +1,10 @@
 ---
-title: Python Slack Bot
-summary: A Flask based REST backend web app to process Bot User requests
+title: Human Factors UI
+summary: A mobile app that sells funnels
+
 tags:
-  - Python
-  - Web App
-  - Script
+  - Mobile
+  - Flutter
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,8 @@ links:
   - icon: github
     icon_pack: fab
     name: Github
-    url: https://github.com/code-panda-x/python-slack-bot
+    url: https://github.com/code-panda-x/SE330-Human-Factors-User-Interface
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,7 +30,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-- Accomplished web app using Flask, ngrok and Slack API
-- Configured app with OAuth access token exercising slackclient and slackevents API
-- Designed backend logic to post specific bot responses corresponding to an event

@@ -10,45 +10,45 @@ role: Master CS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Texas A&M University
-  url: https://www.tamu.edu/
+  - name: Texas A&M University
+    url: https://www.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include backend development, full-stack development, writing and blogging.
 
 # Interests to show in About widget
 interests:
-- Coding
-- Blogging
-- Writing
+  - Coding
+  - Blogging
+  - Writing
 
 # Education to show in About widget
 education:
   courses:
-  - course: MS in Computer Science
-    institution: Texas A&M University
-    year: 2021 - 2023
-  - course: BS in Computer Science
-    institution: South Dakota State University
-    year: 2017 - 2021
+    - course: MS in Computer Science
+      institution: Texas A&M University
+      year: 2021 - 2023
+    - course: BS in Computer Science
+      institution: South Dakota State University
+      year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: github
-  icon_pack: fab
-  link: https://github.com/code-panda-x
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/kehan-meng/
+  - icon: envelope
+    icon_pack: fas
+    link: "/#contact"
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/code-panda-x
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kehan-meng/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai

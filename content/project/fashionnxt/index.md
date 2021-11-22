@@ -1,10 +1,10 @@
 ---
-title: Python Slack Bot
-summary: A Flask based REST backend web app to process Bot User requests
+title: Bookstore Web App
+summary: A Web App to Match Complimentary Resources in Creative Industry
+
 tags:
-  - Python
   - Web App
-  - Script
+  - Rails
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,8 @@ links:
   - icon: github
     icon_pack: fab
     name: Github
-    url: https://github.com/code-panda-x/python-slack-bot
+    url: https://github.com/zihanwang1819/match-my-fashion-public-CodeCreators
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,6 +31,8 @@ url_video: ""
 # slides: example
 ---
 
-- Accomplished web app using Flask, ngrok and Slack API
-- Configured app with OAuth access token exercising slackclient and slackevents API
-- Designed backend logic to post specific bot responses corresponding to an event
+URL: https://fashionnxt.herokuapp.com/
+
+- Ruby on Rails
+- PostgreSQL
+- AWS S3 as Image Backend

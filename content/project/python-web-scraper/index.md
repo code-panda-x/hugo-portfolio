@@ -3,6 +3,7 @@ title: Python Web Scraper
 summary: A web scraper to extract elements on websites
 tags:
   - Python
+  - Script
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
