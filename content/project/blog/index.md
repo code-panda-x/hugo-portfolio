@@ -4,6 +4,7 @@ summary: Personal blog powerd by Hugo
 tags:
   - Web App
   - Hugo
+  - Main Projects
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

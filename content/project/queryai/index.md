@@ -12,7 +12,11 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
+links:
+  - icon: github
+    icon_pack: fab
+    name: Github
+    url: https://github.com/code-panda-x/
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -1,5 +1,5 @@
 ---
-title: Bookstore Web App
+title: FashionNXT
 summary: A Web App to Match Complimentary Resources in Creative Industry
 
 tags:

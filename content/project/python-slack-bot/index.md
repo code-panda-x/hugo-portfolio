@@ -5,6 +5,7 @@ tags:
   - Python
   - Web App
   - Script
+  - Main Projects
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

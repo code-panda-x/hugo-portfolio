@@ -5,6 +5,7 @@ tags:
   - React
   - Express
   - Web App
+  - Main Projects
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

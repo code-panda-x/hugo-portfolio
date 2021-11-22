@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: Main Projects
+      tag: Main Projects
     - name: Web App
       tag: Web App
-    - name: Python
-      tag: Python
+    - name: Script
+      tag: Script
+    - name: Mobile
+      tag: Mobile
     - name: Other
       tag: Demo
 
