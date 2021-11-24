@@ -32,8 +32,6 @@ url_video: ""
 # slides: example
 ---
 
-URL: https://fashionnxt.herokuapp.com/
-
 - Ruby on Rails
 - PostgreSQL
 - AWS S3 as Image Backend
