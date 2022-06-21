@@ -23,6 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer Intern
+    company: Q2
+    company_url: 'https://www.q2.com/'
+    company_logo: q2
+    location: Austin, TX
+    date_start: '2022-05-24'
+    date_end: '2022-08-13'
+    description: |2-
+        Responsibilities include:
+        
+        * Built authenticated razor pages in HTML & C#. Handled APIs utilizing ASP.NET Core MVC 
+        * Applied DB migration for Postgres & SQLite by Entity Framework and performed CRUD operations Daktronics products. Reduced 15% overall testing time
+        * Configured project and database in a Docker container, managed CDN using AWS S3 buckets
+        * •	Executed CI/CD pipelines in GitLab and practiced Agile project management in Jira & Bitbucket
+        
+  - title: Software Engineer Intern
     company: Daktronics
     company_url: 'https://www.daktronics.com/en-us'
     company_logo: dak
@@ -32,10 +47,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Designed and implemented automated test cases using C# in ASP.Net Core by coordinating configurations of back-end components for different LED modules
-        * Developed 20+ test cases with detailed documentation. Identified, evaluated, fixed defects in multiple Daktronics products. Reduced 15% overall testing time
-        * Conducted non-conformance DisplayPort testing with Linux Machines
-        * Distributed teamwork on Azure DevOps and practiced Agile Methodology
+        * Developed modular automation system in ASP.NET Core and reduced overall testing time by 15%
+        * Applied the concept of OOP in C# and created bash scripts for property configuration in Linux 
+        * Performed unit testing, integration testing, and TDD for design verification automation system
+        * Adapted Agile SDLC methodology utilizing scrum, Kanban, and Azure pipelines on Azure DevOps 
         
   - title: Research Assistant
     company: Bioinformatics and Mathematical Biosciences Lab
@@ -47,9 +62,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Created Python scripts to manage metadata from raw DNA, RNA segments
-        * Analyzed computational bioinformatics data utilizing HPC in Linux environment
-        * Performed gene expressions and extracted useful information for bioresearch
+        * Implemented Python scripts to manage metadata from raw DNA & RNA segments for bioresearch
+        * Analyzed computational bioinformatics data with Anaconda packages operating HPC in Linux 
 
 design:
   columns: '2'

@@ -21,21 +21,21 @@ feature:
   icon_pack: fab
   name: Java
 - description: 90%
-  icon: git
+  icon: docker
   icon_pack: fab
-  name: Git
-- description: 80%
-  icon: blog
+  name: Docker
+- description: 90%
+  icon: code
   icon_pack: fas
-  name: Blog
+  name: C#
 - description: 80%
   icon: python
   icon_pack: fab
   name: Python
-- description: 70%
-  icon: react
+- description: 80%
+  icon: git
   icon_pack: fab
-  name: React
+  name: Git
 - description: 50%
   icon: aws
   icon_pack: fab
