@@ -32,10 +32,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Built authenticated razor pages in HTML & C#. Handled APIs utilizing ASP.NET Core MVC 
-        * Applied DB migration for Postgres & SQLite by Entity Framework and performed CRUD operations Daktronics products. Reduced 15% overall testing time
-        * Configured project and database in a Docker container, managed CDN using AWS S3 buckets
-        * •	Executed CI/CD pipelines in GitLab and practiced Agile project management in Jira & Bitbucket
+        * Built authenticated razor pages in HTML & Bootstrap, handled APIs utilizing ASP.NET Core MVC
+        * Applied DB migration for Postgres & SQLite by Entity Framework and performed CRUD operations
+        * Configured project and database in a Docker container, managed CDN using AWS S3 bucket
+        * Executed CI/CD pipelines in GitLab and practiced Agile project management in Jira & Bitbucket
+        * Deployed project to production in 3 months, benefiting 77 Fintech companies and Q2 internal users
         
   - title: Software Engineer Intern
     company: Daktronics
@@ -48,8 +49,8 @@ experience:
         Responsibilities include:
         
         * Developed modular automation system in ASP.NET Core and reduced overall testing time by 15%
-        * Applied the concept of OOP in C# and created bash scripts for property configuration in Linux 
-        * Performed unit testing, integration testing, and TDD for design verification automation system
+        * Applied the concept of OOP in C# and created bash scripts for property configuration in Linux
+        * Performed unit testing, integration testing, and wrote test cases using xUnit for automation system
         * Adapted Agile SDLC methodology utilizing scrum, Kanban, and Azure pipelines on Azure DevOps 
         
   - title: Research Assistant
@@ -61,9 +62,11 @@ experience:
     date_end: '2018-12-31'
     description: |2-
         Responsibilities include:
-        
+
         * Implemented Python scripts to manage metadata from raw DNA & RNA segments for bioresearch
         * Analyzed computational bioinformatics data with Anaconda packages operating HPC in Linux 
+        
+
 
 design:
   columns: '2'
