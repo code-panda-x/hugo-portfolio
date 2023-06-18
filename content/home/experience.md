@@ -21,7 +21,23 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  - title: Software Automation Intern
+    company: Physicians Mutual
+    company_url: 'https://www.physiciansmutual.com/web/home'
+    company_logo: pm
+    location: Omaha, NE
+    date_start: '2022-05-30'
+    date_end: '2022-08-11'
+    description: |2-
+        Responsibilities include:
+        
+        * Created Selenium project by Gradle, practiced Java OOP and multi-threaded programming in IntelliJ 
+        * Enhanced unit tests for APIs and web elements, utilized TestNG for automated integration testing
+        * Achieved data validation by running SQL queries and profited sales team by identifying SSP defects 
+        * Collaborated with team members using Git & GitLab, exercised Agile project management on Rally 
+
   - title: Software Engineer Intern
     company: Q2
     company_url: 'https://www.q2.com/'
@@ -32,9 +48,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Built authenticated razor pages in HTML & Bootstrap, handled APIs utilizing ASP.NET Core MVC
-        * Applied DB migration for Postgres & SQLite by Entity Framework and performed CRUD operations
-        * Configured project and database in a Docker container, managed CDN using AWS S3 bucket
+        * Built authenticated pages in HTML & Bootstrap, handled async APIs utilizing ASP.NET Core MVC 
+        * Applied DB migration for Postgres by Entity Framework, performed CRUD operations by LINQ
+        * Configured C# project and database in a Docker container, managed CDN using AWS S3 bucket
         * Executed CI/CD pipelines in GitLab and practiced Agile project management in Jira & Bitbucket
         * Deployed project to production in 3 months, benefiting 77 Fintech companies and Q2 internal users
         
@@ -50,7 +66,6 @@ experience:
         
         * Developed modular automation system in ASP.NET Core and reduced overall testing time by 15%
         * Applied the concept of OOP in C# and created bash scripts for property configuration in Linux
-        * Performed unit testing, integration testing, and wrote test cases using xUnit for automation system
         * Adapted Agile SDLC methodology utilizing scrum, Kanban, and Azure pipelines on Azure DevOps 
         
   - title: Research Assistant
