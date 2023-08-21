@@ -34,9 +34,10 @@ experience:
         Responsibilities include:
         
         * Created Selenium project by Gradle, practiced Java OOP and multi-threaded programming in IntelliJ 
-        * Enhanced unit tests for APIs and web elements, utilized TestNG for automated integration testing
-        * Achieved data validation by running SQL queries and profited sales team by identifying SSP defects 
+        * Enhanced unit tests for REST APIs and web elements, used TestNG for automated integration tests
+        * Achieved data validation by running SQL queries and verified leads creation and transaction in DB2 
         * Collaborated with team members using Git & GitLab, exercised Agile project management on Rally 
+        * Identified defects on sales and service platform, increased test coverage rate by 21% for team sales
 
   - title: Software Engineer Intern
     company: Q2
@@ -65,7 +66,8 @@ experience:
         Responsibilities include:
         
         * Developed modular automation system in ASP.NET Core and reduced overall testing time by 15%
-        * Applied the concept of OOP in C# and created bash scripts for property configuration in Linux
+        * Implemented server-side C# scripts using LINQ to SQL for LED circuit board test verifications
+        * Applied the concept of OOP in C# and created bash scripts for property configuration in Linux server
         * Adapted Agile SDLC methodology utilizing scrum, Kanban, and Azure pipelines on Azure DevOps 
         
   - title: Research Assistant
@@ -78,7 +80,7 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Implemented Python scripts to manage metadata from raw DNA & RNA segments for bioresearch
+        * Created Python scripts to manage 10 TB metadata from raw DNA & RNA segments for bioresearch
         * Analyzed computational bioinformatics data with Anaconda packages operating HPC in Linux 
         
 
